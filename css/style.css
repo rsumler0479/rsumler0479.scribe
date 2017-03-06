@@ -1,8 +1,5 @@
 /*
-    Theme Name: Maxim
-    Theme URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
+   
 */
 
 /*
@@ -288,7 +285,7 @@ h2.pagetitle {
  /*	width: auto; */
 }
 .navbar .brand {
-	margin-left:-25.5%;
+	margin-left:-10.5%;
 	padding: 0;
 	margin-top: 1.05em;
 }
