@@ -507,7 +507,8 @@ section.spacer.bg2 {
 }
 
 section.spacer.bg3 {
-	background:url(../img/bg/cyber-security-1915629_1280.png) 50% 0 no-repeat fixed;
+	color:#696969;
+	background:url(../img/bg/cyber-security-1915629_1280.png) 50% 0 absolute fixed;
 	width:100%;
 	height:auto;
 	margin:0;	
